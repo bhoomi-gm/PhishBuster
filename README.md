@@ -1,10 +1,10 @@
-# ?? Phishing URL Detection System
+# Phishing URL Detection System
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange.svg)
 
-## ?? Overview
+## PhishBuster Overview
 
 This project implements an intelligent system for detecting phishing URLs using machine learning techniques. Phishing attacks, where malicious actors impersonate legitimate websites to steal sensitive information, pose a significant cybersecurity threat. Our solution provides real-time URL analysis to help users identify potentially dangerous websites.
 
