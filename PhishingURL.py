@@ -26,7 +26,7 @@ import pickle
 # In[2]:
 
 
-df= pd.read_csv("C:/Shreya/AIURL/AIURL/Src/data/phishing_site_urls.csv")
+df= pd.read_csv("./phishing_site_urls.csv")
 df.head()
 
 
